@@ -26,7 +26,7 @@ class Employee1 {
 public class EmployeeJDBC {
     private static final String URL = "jdbc:mysql://localhost:3306/jdbcdb"; // replace with your DB name
     private static final String USER = "root"; // your DB username
-    private static final String PASSWORD = "bazinga"; // your DB password
+    private static final String PASSWORD = "Give your own password"; // your DB password
 
     Connection conn;
 
